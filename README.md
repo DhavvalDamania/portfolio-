@@ -1,1 +1,1 @@
-Created my owm portfolio
+Created my own portfolio page 
